@@ -1,0 +1,80 @@
+id,app_name,window_name,timestamp,idle_time,time_chunk,category
+1,database.py - test_bg - Visual Studio Code,5047990,2025-05-21 15:49:32,0,2025-05-21 15:45:00,Others
+2,database.py - test_bg - Visual Studio Code,5047990,2025-05-21 15:49:37,0,2025-05-21 15:45:00,Others
+3,Bg - File Explorer,2951150,2025-05-21 15:49:42,0,2025-05-21 15:45:00,Others
+4,Bg - File Explorer,2951150,2025-05-21 15:49:47,0,2025-05-21 15:45:00,Others
+5,Mail - Hare Chandru - Outlook,3082150,2025-05-21 15:49:52,2,2025-05-21 15:45:00,Others
+6,Mail - Hare Chandru - Outlook,3082150,2025-05-21 15:49:57,3,2025-05-21 15:45:00,Others
+7,database.py - test_bg - Visual Studio Code,5047990,2025-05-21 15:50:02,0,2025-05-21 15:50:00,Others
+8,Mail - Hare Ram - Outlook,3082150,2025-05-21 15:50:07,0,2025-05-21 15:50:00,Others
+9,,196838,2025-05-21 15:50:12,0,2025-05-21 15:50:00,Others
+10,database.py - test_bg - Visual Studio Code,5047990,2025-05-21 15:50:17,0,2025-05-21 15:50:00,Others
+11,utils.py - test_bg - Visual Studio Code,5047990,2025-05-21 15:50:22,0,2025-05-21 15:50:00,Others
+12,main.py - test_bg - Visual Studio Code,5047990,2025-05-21 15:50:27,0,2025-05-21 15:50:00,Others
+13,main.py - test_bg - Visual Studio Code,5047990,2025-05-21 16:02:12,0,2025-05-21 16:00:00,Others
+14,main.py - test_bg - Visual Studio Code,5047990,2025-05-21 16:02:17,0,2025-05-21 16:00:00,Others
+15,New Tab - Google Chrome,1706260,2025-05-21 16:02:22,0,2025-05-21 16:00:00,Others
+16,Gmail - Google Chrome,1706260,2025-05-21 16:02:27,2,2025-05-21 16:00:00,Others
+17,New Tab - Google Chrome,1706260,2025-05-21 16:02:32,0,2025-05-21 16:00:00,Others
+18,New Tab - Google Chrome,1706260,2025-05-21 16:02:37,0,2025-05-21 16:00:00,Others
+19,skillrack.com - Google Chrome,1706260,2025-05-21 16:02:42,5,2025-05-21 16:00:00,Others
+20,,196838,2025-05-21 16:02:47,0,2025-05-21 16:00:00,Others
+21,Mail - Hare Chandru - Outlook,4915694,2025-05-21 16:02:52,0,2025-05-21 16:00:00,Others
+22,Mail - Hare Chandru - Outlook,4915694,2025-05-21 16:02:57,3,2025-05-21 16:00:00,Others
+23,Mail - Hare Ram - Outlook,4915694,2025-05-21 16:03:02,1,2025-05-21 16:00:00,Others
+24,Mail - Hare Ram - Outlook,4915694,2025-05-21 16:03:07,6,2025-05-21 16:00:00,Others
+25,main.py - test_bg - Visual Studio Code,5047990,2025-05-21 16:03:12,0,2025-05-21 16:00:00,Others
+26,activity_tracker.py - test_bg - Visual Studio Code,5047990,2025-05-21 16:36:52,0,2025-05-21 16:35:00,Others
+27,activity_tracker.py - test_bg - Visual Studio Code,5047990,2025-05-21 16:36:57,1,2025-05-21 16:35:00,Others
+28,WhatsApp,2949676,2025-05-21 16:37:02,0,2025-05-21 16:35:00,Others
+29,WhatsApp,2949676,2025-05-21 16:37:07,5,2025-05-21 16:35:00,Others
+30,outputs - File Explorer,2951150,2025-05-21 16:37:12,0,2025-05-21 16:35:00,Others
+31,,196838,2025-05-21 16:37:17,0,2025-05-21 16:35:00,Others
+32,Mail - Hare Chandru - Outlook,787854,2025-05-21 16:37:22,0,2025-05-21 16:35:00,Others
+33,Mail - Hare Chandru - Outlook,787854,2025-05-21 16:37:27,5,2025-05-21 16:35:00,Others
+34,Mail - Hare Ram - Outlook,787854,2025-05-21 16:37:32,1,2025-05-21 16:35:00,Others
+35,Mail - Hare Ram - Outlook,787854,2025-05-21 16:37:37,6,2025-05-21 16:35:00,Others
+36,activity_tracker.py - test_bg - Visual Studio Code,5047990,2025-05-21 16:37:42,0,2025-05-21 16:35:00,Others
+37,Unknown,activity_tracker.py - test_bg - Visual Studio Code,2025-05-21 16:40:22,0,2025-05-21 16:40:00,Others
+38,Unknown,activity_tracker.py - test_bg - Visual Studio Code,2025-05-21 16:40:27,1,2025-05-21 16:40:00,Others
+39,Unknown,steam - Search - Personal - Microsoft​ Edge,2025-05-21 16:40:32,4,2025-05-21 16:40:00,Others
+40,Unknown,activity_tracker.py - test_bg - Visual Studio Code,2025-05-21 16:40:37,0,2025-05-21 16:40:00,Others
+41,Unknown,activity_tracker.py - test_bg - Visual Studio Code,2025-05-21 16:40:42,0,2025-05-21 16:40:00,Others
+42,Unknown,WhatsApp,2025-05-21 16:40:47,0,2025-05-21 16:40:00,Others
+43,Unknown,WhatsApp,2025-05-21 16:40:52,5,2025-05-21 16:40:00,Others
+44,Code.exe,activity_tracker.py - test_bg - Visual Studio Code,2025-05-21 16:42:10,0,2025-05-21 16:40:00,Work
+45,Code.exe,activity_tracker.py - test_bg - Visual Studio Code,2025-05-21 16:42:15,2,2025-05-21 16:40:00,Work
+46,msedge.exe,steam - Search - Personal - Microsoft​ Edge,2025-05-21 16:42:20,2,2025-05-21 16:40:00,Others
+47,ApplicationFrameHost.exe,Microsoft Store,2025-05-21 16:42:25,0,2025-05-21 16:40:00,Others
+48,ApplicationFrameHost.exe,Microsoft Store,2025-05-21 16:42:30,5,2025-05-21 16:40:00,Others
+49,Code.exe,activity_tracker.py - test_bg - Visual Studio Code,2025-05-21 16:42:35,0,2025-05-21 16:40:00,Work
+50,ApplicationFrameHost.exe,WhatsApp,2025-05-21 16:42:40,1,2025-05-21 16:40:00,Others
+51,Code.exe,activity_tracker.py - test_bg - Visual Studio Code,2025-05-21 16:42:45,0,2025-05-21 16:40:00,Work
+52,Code.exe,activity_tracker.py - test_bg - Visual Studio Code,2025-05-21 16:46:39,0,2025-05-21 16:45:00,Work
+53,Code.exe,activity_tracker.py - test_bg - Visual Studio Code,2025-05-21 16:46:44,1,2025-05-21 16:45:00,Work
+54,explorer.exe,Downloads - File Explorer,2025-05-21 16:46:49,3,2025-05-21 16:45:00,File Management
+55,explorer.exe,Downloads - File Explorer,2025-05-21 16:46:54,8,2025-05-21 16:45:00,File Management
+56,olk.exe,Mail - Hare Chandru - Outlook,2025-05-21 16:46:59,0,2025-05-21 16:45:00,Others
+57,olk.exe,Mail - Hare Chandru - Outlook,2025-05-21 16:47:04,0,2025-05-21 16:45:00,Others
+58,olk.exe,Mail - Hare Chandru - Outlook,2025-05-21 16:47:09,0,2025-05-21 16:45:00,Others
+59,Copilot.exe,Copilot,2025-05-21 16:47:14,0,2025-05-21 16:45:00,Others
+60,Copilot.exe,Copilot,2025-05-21 16:47:19,0,2025-05-21 16:45:00,Others
+61,Code.exe,main.py - test_bg - Visual Studio Code,2025-05-21 16:51:54,0,2025-05-21 16:50:00,Work
+62,brave.exe,YouTube - Brave,2025-05-21 16:51:59,0,2025-05-21 16:50:00,Others
+63,brave.exe,YouTube - Brave,2025-05-21 16:52:04,5,2025-05-21 16:50:00,Others
+64,brave.exe,YouTube - Brave,2025-05-21 16:52:09,0,2025-05-21 16:50:00,Others
+65,olk.exe,Mail - Hare Chandru - Outlook,2025-05-21 16:52:14,0,2025-05-21 16:50:00,Others
+66,msedge.exe,steam - Search - Personal - Microsoft​ Edge,2025-05-21 16:52:19,4,2025-05-21 16:50:00,Others
+67,msedge.exe,steam - Search - Personal - Microsoft​ Edge,2025-05-21 16:52:24,9,2025-05-21 16:50:00,Others
+68,explorer.exe,Downloads - File Explorer,2025-05-21 16:52:29,0,2025-05-21 16:50:00,File Management
+69,ApplicationFrameHost.exe,Microsoft Store,2025-05-21 16:52:34,0,2025-05-21 16:50:00,Others
+70,ApplicationFrameHost.exe,Microsoft Store,2025-05-21 16:52:39,0,2025-05-21 16:50:00,Others
+71,Code.exe,activity_tracker.py - test_bg - Visual Studio Code,2025-05-21 16:56:16,0,2025-05-21 16:55:00,Work
+72,Code.exe,activity_tracker.py - test_bg - Visual Studio Code,2025-05-21 16:56:21,0,2025-05-21 16:55:00,Work
+73,brave.exe,YouTube - Brave,2025-05-21 16:56:26,3,2025-05-21 16:55:00,Others
+74,brave.exe,YouTube - Brave,2025-05-21 16:56:31,0,2025-05-21 16:55:00,Others
+75,HP.Omen.OmenCommandCenter.exe,OMEN Gaming Hub,2025-05-21 16:56:36,1,2025-05-21 16:55:00,Others
+76,Microsoft Store,Microsoft Store,2025-05-21 16:56:41,0,2025-05-21 16:55:00,Others
+77,Microsoft Store,Microsoft Store,2025-05-21 16:56:46,2,2025-05-21 16:55:00,Others
+78,WhatsApp,WhatsApp,2025-05-21 16:56:51,0,2025-05-21 16:55:00,Others
+79,WhatsApp,WhatsApp,2025-05-21 16:56:56,5,2025-05-21 16:55:00,Others
