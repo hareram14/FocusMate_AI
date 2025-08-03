@@ -1,4 +1,7 @@
 Clone the github repo and open the folder FocusMate
+
+Create an empty folders inside the FocusMate folder: data, outputs
+
 Module-1: User Activity & App Monitoring
 1) Initiate the virtual environment: python -m venv venv
 2) Connect to venv: .\venv\Scripts\Activate.ps1
